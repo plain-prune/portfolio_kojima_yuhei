@@ -1,0 +1,271 @@
+/*introduction*/
+.con{
+   width: 1000px;
+   height: 450px;
+   padding:15px;
+   display: flex;
+   flex-direction: row-reverse;
+
+ }
+
+.con h2{
+   width: 390px;
+   padding: 6px;
+   margin-top: 5px;
+   margin-bottom: 15px;
+   background:			#EEEEEE;
+   border: solid 1.5px gray;
+}
+
+.con h3{
+   padding: 5px;
+   border: solid 3px #6B8E23;
+}
+
+.con p{
+   line-height:1.6;
+   margin-top: -10px;
+}
+
+
+ #pan::after {
+   color:#cccccc;
+   top: 30px;
+   left: 200px;
+   padding-left: 10px;
+   padding-right: 10px;
+   font-size: 15px;
+   content: ">";
+   }
+
+.nicot{
+width: 180px;
+position: absolute;
+top: 25px;
+left:30px;
+}
+
+#Title{
+   width: 750px;
+   position: absolute;
+   top: -55px;
+   left: 230px;
+   font-size:40px ;
+   color: #EEEEEE;
+   border: solid 3px white;
+   
+}
+
+.header1{
+   position: absolute;
+   top: 80px;
+   left: 0px;
+   color:white;
+}
+
+.header2{
+   display: flex;
+   flex-direction: row;
+   color:gray;
+
+}
+
+.mikoshi{
+   width: 314px;
+   bottom: 25px;
+   right:10px;
+   position: relative;
+   margin-top: 30px;
+   
+}
+
+
+
+/*lastyear*/
+.lycon{
+   width: 1000px;
+   height: 500px;
+   padding:15px;
+   display: flex;
+   flex-direction: row-reverse;
+ }
+
+.lycon h2{
+   width: 460px;
+   padding: 6px;
+   margin-left: -160px;
+   margin-top: 5px;
+   margin-bottom: 15px;
+   background:			#EEEEEE;
+   border: solid 1.5px gray;
+}
+
+.lycon h3{
+   padding: 5px;
+   border: solid 3px #6B8E23;
+}
+
+.lycon p{
+   line-height:1.6;
+   margin-top: -10px;
+}
+
+.lyimg1{
+   width: 150px;
+   top:85px;
+   padding: 5px;
+   left: -10px;
+   position: relative;
+   flex-direction: column; 
+   border: solid 1px gray;
+}
+
+.utiwa{
+   top:20px;
+   margin-top: 36px;
+}
+
+.mokei{
+   margin-top: 36px;
+}
+
+
+
+/*thisyear*/
+.tycon{
+   width: 1000px;
+   height: 500px;
+   padding:15px;
+   margin-left:0px;
+   display: flex;
+   flex-direction: row-reverse;
+ }
+
+.tycon h2{
+   width: 460px;
+   padding: 6px;
+   margin-left: -160px;
+   margin-top: 5px;
+   margin-bottom: 15px;
+   background:			#EEEEEE;
+   border: solid 1.5px gray;
+}
+
+.tycon h3{
+   padding: 5px;
+   border: solid 3px #6B8E23;  
+   width: 823px;
+}
+
+.tycon p{
+   line-height:1.6;
+   margin-top: -10px;
+}
+
+.tyimg1{
+   width: 150px;
+   top:85px;
+   padding: 5px;
+   left: -10px;
+   position: relative;
+   flex-direction: column; 
+   border: solid 1px gray;
+}
+
+.rejin{
+   margin-top: 10px;
+   
+}
+
+.bamboo{
+   margin-top: 98px;
+}
+
+
+
+/*inquiry*/
+.incon{
+   width: 1000px;
+   height: 600px;
+   padding:15px;
+   display: flex;
+ }
+
+.incon h2{
+   width: 460px;
+   padding: 6px;
+   margin-top: 5px;
+   margin-bottom: 15px;
+   background:			#EEEEEE;
+   border: solid 1.5px gray;
+}
+
+.incon h3{
+   padding: 5px;
+   border: solid 3px #6B8E23;  
+   width: 985px;
+}
+
+.incon p{
+   line-height:1.6;
+   margin-top: -10px;
+}
+
+.incon th{
+   width: 200px;
+   height: 50px;
+   
+   background-color: #336600;
+   color: #EEEEEE;
+}
+
+.incon td{
+   width: 500px;
+   height: 50px;
+   border: solid 1px;
+   background-color: #FFFFFF;
+   }
+
+.incon a:link{
+   color:gray;
+   text-decoration: none;
+   font-size: 20px;
+}
+
+.incon a:visited{
+   color:#cccccc;
+   text-decoration: none;
+   font-size: 20px;
+}
+
+
+
+/*general*/
+header {
+   width: 1200px;
+   height: 100px;
+   padding:10px;
+   background:#336600;
+}
+
+footer {
+   width: 1200px;
+   height: 80px;
+   padding:10px;
+   background:#336600;   
+}
+
+a:link{
+   color:#FFFFEE;
+   text-decoration: none;
+   font-size: 15px;
+}
+
+a:visited{
+   color:#cccccc;
+   text-decoration: none;
+   font-size: 15px;
+}
+
+
+        
